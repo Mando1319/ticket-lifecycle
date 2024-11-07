@@ -43,8 +43,8 @@ In this lab, I will create a ticket as an end user, observe all the ticket prope
 <img src="https://i.imgur.com/1CzBhw9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-As an end-user, I created the following ticket, (the accounting department needs Adobe upgrade, broken), so right after Also an a help desk agent under the name of john, I observed the ticket's properties and set some of the properties such as setting the SLA to Sev-C and making sure the ticket was sent to the support department. The issue was that the accounting department couldn't use the Adobe software, only 2 people could not use the software, and was categorized as a Sev-C ticket, the Cx tested if restarting would fix the issue and it appeared to have worked so the ticket was resolved. 
-
+As an end-user, I created the following ticket, (the accounting department needs Adobe upgrade, broken), so right after Also an a help desk agent under the name of john, I observed the ticket's properties and set some of the properties such as setting the SLA to Sev-C and making sure the ticket was sent to the support department. The issue was that the accounting department couldn't use the Adobe software, only 2 people could not use the software, and was categorized as a Sev-C ticket, the Cx tested if restarting would fix the issue and it appeared to have worked so the ticket was resolved. There was a third ticket about a CFO's laptop not powering on This ticket was set to Sev-B but could have been Sev-A depending if there was any update on the urgency of the problem, so the ticket was being worked on by John Doe a support agent. the issue was the charger was broken so he bought a new one and the laptop started charging so the ticket was resolved.
+  
 </p>
 <br />
 
